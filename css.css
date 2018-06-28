@@ -1,0 +1,47 @@
+body {
+	background: #f3f3f1;
+	font-family: arial;
+	margin: 0;
+}
+header {
+	background: white;
+	color: #096101;
+	margin: 0;
+	text-decoration: none;
+}
+header h1 {
+	margin: 0;
+	padding: 15px 15px 10px 15px;
+	display: inline;
+}
+nav ul {
+	margin: 0;
+	display: inline;
+}
+nav ul li {
+	background: #096101;
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px;
+	border-radius: 5px;
+}
+nav ul li a {
+	color: white;
+}
+footer {
+	clear: both;
+	background:  #194d19;
+	color: white;
+	font-size: 10px;
+	padding: 15px;
+
+}
+footer p {
+	opacity: 0.5;
+}
+.row {
+
+}
+.col {
+	float: left;
+}
